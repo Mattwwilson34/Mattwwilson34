@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattwwilson34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile stats:
-![image] (https://github-readme-streak-stats.herokuapp.com/?user=Mattwwilson34)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=Mattwwilson34)
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mattwwilson34&theme=vue)
 
