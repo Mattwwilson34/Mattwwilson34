@@ -11,13 +11,8 @@
 
 ### Frameworks:
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image]({BadgeURLHere})
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user={Mattwwilson34})
 
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattwwilson34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattwwilson34&show_icons=true&theme=default)
 
