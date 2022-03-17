@@ -10,11 +10,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Frameworks:
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+![image]({BadgeURLHere})
+![image]({https://github-readme-streak-stats.herokuapp.com/?user={Mattwwilson34}})
 
-https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 
-https://github-readme-streak-stats.herokuapp.com/?user={username}
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattwwilson34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattwwilson34&show_icons=true&theme=default)
