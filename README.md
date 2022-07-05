@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mattwwilson34
-- 👀 I’m interested in full stack web development and transitioning into a software developement position
-- 🌱 I’m currently learning HTML, CSS, JS, React, Express, MongoDB, Node
-- 💞️ I’m looking to collaborate on any and all web developemnt projects including the current technologies i'm learning.
-- 📫 How to reach me mattwwilson34@gmail.com
+I am a full-stack developer with experience in JavaScript, mongoDB, express, react, and node. I fell in love with software and computer science after discovering Harvard's CS50 course in 2018. In May of 2021, I graduated from Duke Universities Physical Therapy program and began pouring 50+ hours a week into building projects and learning web development from Udemy courses and The Odin Project. I currently work full-time as a physical therapist in Durham, NC, and spend most evenings and weekends coding. When I am not working as a PT or coding, I enjoy spending time with my wife Lyra and our cat Gotenks and play for the Raleigh Flyers, North Carolina's professional ultimate frisbee team.
+
+I am actively seeking full-time employment as a JavaScript developer with experience in mongoDB, express, react, and node. If your company is seeking a passionate software developer to join your team or an individual looking to collaborate on a personal/side project i would love to hear from you! 
+
+You can reach me at mattwwilson34@gmail.com.
 
 ### Languages: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
