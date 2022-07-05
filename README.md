@@ -10,32 +10,26 @@ If your company is seeking a passionate software developer to join your team or 
 
 You can reach me at mattwwilson34@gmail.com.
 
+#### Have worked in:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/React Router-CA4245?logo=ReactRouter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/React Router-CA4245?logo=ReactRouter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" />
 </p>
 
-
-### Languages: 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frameworks:
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattwwilson34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Profile stats:
-![image](https://github-readme-streak-stats.herokuapp.com/?user=Mattwwilson34)
-
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mattwwilson34&theme=vue)
+#### Version Control and Development tools used:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=flat" />
+</p>
 
 
 
