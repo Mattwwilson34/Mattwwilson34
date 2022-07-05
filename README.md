@@ -31,5 +31,9 @@ You can reach me at mattwwilson34@gmail.com.
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=flat" />
 </p>
 
+#### Operating System familiar with:
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat" />
+</p>
 
 
