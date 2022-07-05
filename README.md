@@ -29,6 +29,7 @@ You can reach me at mattwwilson34@gmail.com.
   <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/iTerm2-000000?logo=iTerm2&logoColor=white&style=flat" />
 </p>
 
 #### Operating System familiar with:
@@ -36,4 +37,7 @@ You can reach me at mattwwilson34@gmail.com.
   <img src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat" />
 </p>
 
+- - -
+
+<img src="https://github-readme-stats.vercel.app/api?username=mattwwilson34&count_private=true&theme=radical&show_icons=true" />
 
