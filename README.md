@@ -1,14 +1,14 @@
 # Hi 👋 my name is Matt Wilson
 
-### Full-Stack Developer
+### I am a full-stack developer who loves building fast and organized back ends, dynamic front ends, and experimenting with data storage techniques.
 
-📫 How to reach me: mattwwilson34@gmail.com
+📫 How to reach me: mattwwilson34@gmail.com | www.linkedin.com/in/mattwwilson
 
 - - -
 
 I am a full-stack developer with experience in JavaScript, mongoDB, express, react, and node. I fell in love with software and computer science after discovering Harvard's CS50 course in 2018. In May of 2021, I graduated from Duke Universities Physical Therapy program and began pouring 50+ hours a week into building projects and learning web development from Udemy courses and The Odin Project. I currently work full-time as a physical therapist in Durham, NC, and spend most evenings and weekends coding. When I am not working as a PT or coding, I enjoy spending time with my wife Lyra and our cat Gotenks and play for the Raleigh Flyers, North Carolina's professional ultimate frisbee team.
 
-**I am actively seeking full-time employment as a JavaScript developer with experience in mongoDB, express, react, and node.**
+#### I am actively seeking full-time employment as a JavaScript developer with experience in mongoDB, express, react, and node.
 
 If your company is seeking a passionate software developer to join your team or an individual looking to collaborate on a personal/side project I would love to hear from you! 
 
