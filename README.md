@@ -6,7 +6,7 @@
 
 - - -
 
-I am a full-stack developer with experience in JavaScript, mongoDB, express, react, and node. I fell in love with software and computer science after discovering Harvard's CS50 course in 2018. In May of 2021, I graduated from Duke Universities Physical Therapy program and began pouring 50+ hours a week into building projects and learning web development from Udemy courses and The Odin Project. I currently work full-time as a physical therapist in Durham, NC, and spend most evenings and weekends coding. When I am not working as a PT or coding, I enjoy spending time with my wife Lyra and our cat Gotenks and play for the Raleigh Flyers, North Carolina's professional ultimate frisbee team.
+I am skilled in TypeScript, RESTful API development, and full-stack web applications, with a strong understanding of front-end technologies like React, HTML, CSS, and JavaScript, and back-end technologies like Node, Express, and MongoDB. I approach each project with a problem-solving mindset, using my technical abilities to find the best solutions and deliver high-quality results.
 
 #### I am actively seeking full-time employment as a JavaScript developer with experience in mongoDB, express, react, and node.
 
