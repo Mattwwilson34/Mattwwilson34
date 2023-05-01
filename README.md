@@ -1,45 +1,55 @@
-# Hi 👋 my name is Matt Wilson
+# Hi, I'm Matt Wilson and I am a Software Engineer
+I enjoy exploring new technologies and discovering innovative solutions to real-world problems. My strength lies in both team-based environments and working independently, where I achieve success and efficiency. It would be my pleasure to connect with you and explore how I can contribute to your team or project.
 
-### I am a full-stack developer who loves building fast and organized back ends, dynamic front ends, and experimenting with data storage techniques.
+Email: mattwwilson34@gmail.com
 
-📫 How to reach me: mattwwilson34@gmail.com | www.linkedin.com/in/mattwwilson
+Social: [LinkedIn](https://www.linkedin.com/in/mattwwilson/)
 
-- - -
+Website: [Portfolio](https://mattwwilson.com/)
 
-I am skilled in TypeScript, RESTful API development, and full-stack web applications, with a strong understanding of front-end technologies like React, HTML, CSS, and JavaScript, and back-end technologies like Node, Express, and MongoDB. I approach each project with a problem-solving mindset, using my technical abilities to find the best solutions and deliver high-quality results.
+#### Langauges:
+<div>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-#### I am actively seeking full-time employment as a JavaScript developer with experience in mongoDB, express, react, and node.
+#### Technologies:
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=for-the-badge" />
+</div>
 
-If your company is seeking a passionate software developer to join your team or an individual looking to collaborate on a personal/side project I would love to hear from you! 
+#### Databases:
+ <div>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
+ </div>
 
-#### Have worked in:
+
+#### Development tools:
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/React Router-CA4245?logo=ReactRouter&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTerm2-000000?logo=iTerm2&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-#### Version Control and Development tools used:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/iTerm2-000000?logo=iTerm2&logoColor=white&style=flat" />
-</p>
-
-#### Operating System familiar with:
-<p>
-  <img src="https://img.shields.io/badge/macOS-000000?logo=macOS&logoColor=white&style=flat" />
-</p>
-
-- - -
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=mattwwilson34&count_private=true&theme=radical&show_icons=true" />
+  
+![Leetcode Stats](https://leetcard.jacoblin.cool/mattwilson34?theme=dark&ext=heatmap&hide=ranking)
+</div>
 
