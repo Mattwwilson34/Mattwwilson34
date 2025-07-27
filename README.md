@@ -21,7 +21,7 @@ I'm a self-taught engineer with a clinical background (Doctor of Physical Therap
 - **Learning**: Spanish (Baselang), Go systems programming
 
 ## 🌐 Portfolio
-Check out my full portfolio: **[mattWilson.dev](https://your-website-url.com)**
+Check out my full portfolio: **[mattwilson.io](https://mattwilson.io/)**
 
 ## 📫 Contact
 - **Email**: [matwilson34@gmail.com](mailto:matwilson34@gmail.com)
