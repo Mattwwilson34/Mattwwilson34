@@ -18,7 +18,7 @@ I'm a self-taught engineer with a clinical background (Doctor of Physical Therap
 ## 🎯 Beyond Code
 - **Ultimate Frisbee**: 2025 Masters National Champion, competing at 2026 Masters Worlds
 - **Tools**: NeoVim enthusiast
-- **Learning**: Spanish (Baselang), G
+- **Learning**: Spanish (Baselang), Go
 
 ## 🌐 Portfolio
 Check out my full portfolio: **[mattwilson.io](https://mattwilson.io/)**
