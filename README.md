@@ -26,7 +26,3 @@ Check out my full portfolio: **[mattwilson.io](https://mattwilson.io/)**
 ## 📫 Contact
 - **Email**: [matwilson34@gmail.com](mailto:matwilson34@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mattwwilson](https://www.linkedin.com/in/mattwwilson/)
-
----
-
-*Building healthcare technology that bridges clinical expertise with engineering innovation.*
